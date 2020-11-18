@@ -1,0 +1,17 @@
+p            { font-family: Arial; font-size: 12 pt; text-indent: 0; word-spacing: 0; 
+               line-height: 150%; margin-left: 15; 
+               margin-right: 15; margin-top: 0; margin-bottom: 0 }
+h1           { font-family: Impact; line-height: 150%; font-size: 36 pt; margin-left: 15; 
+               margin-right: 15 }
+h2           { font-family: Arial; line-height: 150%; margin-left: 15; margin-right: 15 }
+h3           { font-family: Arial; line-height: 150%; margin-left: 15; margin-right: 15 }
+h4           { font-family: Arial; line-height: 150%; margin-top: 0; margin-bottom: 0; margin-left: 15; 
+					margin-right: 15 }
+a:link {	text-decoration: none;
+	color: #CCCCCC;}
+
+a:visited {	text-decoration: none;
+	color: #FF9900;}
+
+a:hover {	text-decoration: none;
+	color: #990000;}
